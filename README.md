@@ -6,8 +6,7 @@
 3. Are the trailing zeros in customerData1 placeholders?
 4. Can m or n be zero?
 
-## Diagram / Flowchart
-Add an image in the diagrams/ folder (example: diagrams/merge-flowchart.png)
+
 
 ## Approach
 Use three pointers from the end:
